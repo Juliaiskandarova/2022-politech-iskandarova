@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Julia Iskandarova\2022-politech-iskandarova\04_search_sort\array_insertion\cmake\CMakeFiles\9b994ec1c2c3f1bc43d166091645c17e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7471E0E3-E781-35F9-B1F6-744084AF0266}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
