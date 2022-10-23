@@ -1,0 +1,3 @@
+C:/Users/Julia Iskandarova/2022-politech-iskandarova/04_search_sort/binary/cmake/CMakeFiles/cmakelist.dir
+C:/Users/Julia Iskandarova/2022-politech-iskandarova/04_search_sort/binary/cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/Julia Iskandarova/2022-politech-iskandarova/04_search_sort/binary/cmake/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Julia Iskandarova\2022-politech-iskandarova\04_search_sort\binary\CMakeLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Julia Iskandarova\2022-politech-iskandarova\04_search_sort\binary\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{012DE3CE-19EB-3017-8263-F49C54AA5CE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
