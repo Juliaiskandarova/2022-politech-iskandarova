@@ -36,10 +36,10 @@ int main()
     cout << endl;
 
 
-    x = 50;
+    x = 4;
 
 
-    p = 5;
+    p = 1;
 
 
     insertX(n, arr, x, p);
