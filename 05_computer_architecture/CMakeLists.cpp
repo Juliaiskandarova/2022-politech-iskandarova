@@ -6,7 +6,8 @@ using namespace std;
 int main()
 {
 	char parameter[20];   
-	char unit[3];  
+	int value;   
+	char unit[3];   
 	double memory[2];
 
 	ifstream in("/proc/meminfo", std::ios_base::in);   
